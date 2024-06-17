@@ -33,48 +33,48 @@ redirect_from:
         <ul>
           <li><a href="http://photonics.georgiatech-metz.fr/node/33">PHOTONICS AND TERAHERTZ GROUP</a></li>
           <li>Duties include: AI-Based Terahertz Tomography for NDE</li>
-          <li>Supervisors: <a href="https://ece.gatech.edu/directory/david-s-citrin">Prof. David Citrin</a> and <a href="http://photonics.georgiatech-metz.fr/node/25">Prof. Alexandre Locquet</a></li>
+          <li>Advisor: <a href="https://ece.gatech.edu/directory/david-s-citrin"> Prof. David Citrin</a> </li>
         </ul>
       </li>
       <li>Spring 2021: Research Assistant, Georgia Tech
         <ul>
           <li><a href="https://pscal.ece.gatech.edu/">Power Systems Control and Automation Laboratory</a></li>
           <li>Duties included: Dynamic state estimation of power system</li>
-          <li>Supervisor: <a href="https://ece.gatech.edu/directory/p-meliopoulos">A. P. Meliopoulos</a></li>
+          <li>Advisor: <a href="https://ece.gatech.edu/directory/p-meliopoulos"> Prof. A. P. Meliopoulos</a></li>
         </ul>
       </li>
       <li>2019-2021: Research Assistant, New Mexico Tech
         <ul>
           <li><a href="https://sites.google.com/nmt.edu/afasl/research?authuser=0">Autonomous Flight and Aquatic Systems Laboratory</a></li>
           <li>Duties included: Swarming drones positioning optimization</li>
-          <li>Supervisor: Dr. Mostafa Hassanalian</li>
+          <li>Advisor: Dr. Mostafa Hassanalian</li>
         </ul>
       </li>
       <li>Fall 2019: Research Assistant, New Mexico Tech
         <ul>
           <li>Laboratory for Smart Materials and Structures (LaSMaS)</li>
           <li>Duties included: Multifunctional Materials, Energy Harvesting</li>
-          <li>Supervisor: Dr. Donghyeon Ryu</li>
+          <li>Advisor: Dr. Donghyeon Ryu</li>
         </ul>
       </li>
       <li>2017-2019: Research Assistant, University of South Florida
         <ul>
           <li>Duties included: Prediction of Thermal Failure of Induction Machines</li>
-          <li>Supervisors: Professor Wilfrido Moreno and late Dr. Ralph David Fehr</li>
+          <li>Advisors: Professor Wilfrido Moreno and late Dr. Ralph David Fehr</li>
         </ul>
       </li>
       <li>Jan 2016-Jun 2017: Research Assistant, University of Lome
         <ul>
           <li>Solar Energy Laboratory of University of Lome</li>
           <li>Duties included: Characterization of solar water heater and local furnaces</li>
-          <li>Supervisor: Professor Yendoube Lare</li>
+          <li>Advisor: Professor Yendoube Lare</li>
         </ul>
       </li>
       <li>Jan-Dec 2015: Research Fellow, Stellenbosch University
         <ul>
           <li><a href="https://sterg.sun.ac.za/">Solar Thermal Energy Research Group</a></li>
           <li>Duties included: Modeling and simulation</li>
-          <li>Supervisor: Professor Franck Dinter</li>
+          <li>Advisor: Professor Franck Dinter</li>
         </ul>
       </li>
     </ul>
