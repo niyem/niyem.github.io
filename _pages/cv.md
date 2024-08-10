@@ -12,7 +12,8 @@ redirect_from:
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
     <h2>Vitae</h2>
     
-    <li><a href="/_pages/CV_of_Niyem.pdf">Download CV</a></li>
+    <li><a href="/_pages/CV__Data_Science_ML.pdf">Download Data Science/ ML Engineer CV</a></li>
+    <li><a href="/_pages/CV__Hardware_Eng.pdf">Download Hardware Engineer CV</a></li>
   </div>
 
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
